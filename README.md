@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm looking to get better at application security and get back to my developer roots. 
+
 <!--
 **ESP09/ESP09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
